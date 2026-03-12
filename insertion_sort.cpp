@@ -47,6 +47,12 @@ void insertionSort(){   //procedure insertion sort
             cout << arr[k] << " ";
         }
     }
+}
 
+void display(){
+    cout << endl;
+    cout << "\n=====================";
+    cout << "\nElement Array" << endl;
+    cout << "=======================";
 
 
