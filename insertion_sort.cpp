@@ -61,5 +61,12 @@ void display(){
     cout << endl;
 }
 
+int main(){
+    input();
+    insertionSort();
+    display();
+    system("pause");
+}
+
 
 
