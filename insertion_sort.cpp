@@ -25,3 +25,8 @@ void input (){      //procedure input
         cout << "Data ke-" << (i+1) << ": ";
         cin >> arr[i];
     }
+}
+
+void insertionSort(){   //procedure insertion sort
+    int temp;
+    int j;
